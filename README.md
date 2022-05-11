@@ -18,3 +18,9 @@ neofetch
 ```bash
 timedatectl
 ```
+
+### Información del uso de DNS.
+```bash
+systemd-resolve --status
+```
+La utilidad en si misma provee mucha funcionalidad para investigar DNS.
