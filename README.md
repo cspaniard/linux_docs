@@ -26,3 +26,8 @@ timedatectl
 systemd-resolve --status
 ```
 La utilidad en si misma provee mucha funcionalidad para investigar DNS.
+
+### Monitorización del sistema (procesos, cpu's, temp's, etc)
+```bash
+glances
+```
