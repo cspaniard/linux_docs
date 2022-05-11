@@ -9,7 +9,7 @@ Ejecutar desde shell remoto y reiniciar.
 sudo apt install xserver-xorg-input-all
 ```
 
-### Información general, pero importante del sistema.
+### Información general, pero importante, del sistema.
 ```bash
 neofetch
 ```
