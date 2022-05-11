@@ -13,3 +13,8 @@ sudo apt install xserver-xorg-input-all
 ```bash
 neofetch
 ```
+
+### Configuración de la fecha y hora.
+```bash
+timedatectl
+```
