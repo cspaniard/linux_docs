@@ -43,3 +43,9 @@ La utilidad en si misma provee mucha funcionalidad para investigar DNS.
 ```bash
 glances
 ```
+
+### Fecha de instalación del sistema.
+```bash
+ll -d /lost+found
+```
+La fecha de este directorio es la fecha de instación.
