@@ -21,6 +21,13 @@ neofetch
 cat /etc/upstream-release/lsb-release
 ```
 
+### Información de la distribución propia.
+```bash
+cat /etc/lsb-release
+
+cat /etc/linuxmint/info            # fichero propio de Linux Mint
+```
+
 ### Configuración de la fecha y hora.
 ```bash
 timedatectl
