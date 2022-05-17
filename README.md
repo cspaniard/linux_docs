@@ -16,6 +16,11 @@ sudo apt install xserver-xorg-input-all
 neofetch
 ```
 
+### Información de la distribución base.
+```bash
+cat /etc/upstream-release/lsb-release
+```
+
 ### Configuración de la fecha y hora.
 ```bash
 timedatectl
