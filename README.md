@@ -28,6 +28,11 @@ cat /etc/lsb-release
 cat /etc/linuxmint/info            # fichero propio de Linux Mint
 ```
 
+### Versión e Info extendida con el logo de la distribución
+```bash
+neofetch
+```
+
 ### Configuración de la fecha y hora.
 ```bash
 timedatectl
